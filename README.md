@@ -2,7 +2,7 @@
 Global
 
 
-satellite channels telegram @SAT6U
+satellite channels telegram http://t.me/SAT6U
 
 MY GROUPS http://t.me/SAT6U1
 
